@@ -1,0 +1,693 @@
+echo "# USFL-1983-1985" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shawnintheflesh/USFL-1983-1985.git
+git push -u origin main
+
+<script src="https://www.statscrew.com/sorttable.js" async="" defer=""></script>
+
+<meta property="og:url" content="https://www.statscrew.com/football/stats/t-USFLAZW/y-1983"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="1983 Arizona Wranglers football Statistics on StatsCrew.com"/>
+<meta property="og:description" content="Check out the 1983 Arizona Wranglers football Statistics from the Stats Crew."/>
+<meta property="og:image" content="https://www.statscrew.com/graphics/sc_logo_200x200.png"/>
+<style>.ezoic-ad.box-2144 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:970px;padding:0;text-align:center !important; }
+.ezoic-ad.large-mobile-banner-2162 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-3157 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.banner-1158 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.box-3138 { display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.large-mobile-banner-1161 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-4139 { display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-2152 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.box-1165 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-billboard-2163 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:280px;min-width:336px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1106 { background:0 0 !important;display:block !important;float:none !important;line-height:0px;margin-left:auto !important;margin-right:auto !important;max-width:100% !important;min-width:300px;padding:0;text-align:center !important;width:300px; }
+.ezoic-ad.banner-2149 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:250px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1 { border:none !important;display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1 { border:none !important;display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1 { border:none !important;display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1108 { background:0 0 !important;display:flex !important;float:none;justify-content:space-between;line-height:0px;margin-bottom:10px !important;margin-left:auto !important;margin-right:auto !important;margin-top:10px !important;max-width:100% !important;min-width:970px;padding:0;text-align:center !important;width:970px; }
+.ezoic-ad.medrectangle-2101 { display:inline-block;float:none;line-height:0px;max-width:100% !important;min-height:90px;min-width:728px;padding:0; }
+.ezoic-ad{display:inline-block;border:0px;}.ezoic-ad>div>iframe{margin:0px!important;padding:0px!important;}
+.adtester-container-103,.adtester-container-116,.adtester-container-150,.adtester-container-140,.adtester-container-114,.adtester-container-136,.adtester-container-105,.adtester-container-164,.adtester-container-141,.adtester-container-109,.adtester-container-110,.adtester-container-115,.adtester-container-155,.adtester-container-111,.adtester-container-137,.adtester-container-122,.adtester-container-166,.adtester-container-113,.adtester-container-124,.adtester-container-104,.adtester-container-118,.adtester-container-117,.adtester-container-154,.adtester-container-151,.adtester-container-119,.adtester-container-160,.adtester-container-153,.adtester-container-156,.adtester-container-120,.adtester-container-107,.adtester-container-121,.adtester-container-123{display:none!important}
+.ezmob-footer{position:fixed;left:0;bottom:0;width:100%;background:#fff;z-index:100000;line-height:0}.ezmob-footer-desktop{background-color:#fffc;border-top:1px solid #d3d3d3;padding-top:5px}.ezmob-footer-close{cursor:pointer;color:#b2b2b2;border:1px solid #b2b2b2;border-radius:20px;background:#fff;line-height:20px;display:inline-block;font-size:20px;font-family:arial,sans-serif;padding:0 5px;position:absolute;top:5px;right:5px;height:24px;width:21px;text-align:center}body {
+					padding-bottom: 120px !important;
+					height: auto;
+				}
+				.ezmob-footer-close-mobile {
+				display:none;
+			}
+			#ezmobfooter {
+				bottom: 0px !important;
+			}
+			
+
+		@media (min-width: 900px) {
+			.ez-sticky {
+				position: sticky;
+				position: -webkit-sticky;
+				top: 80px;
+				z-index:10;
+			}
+		}
+	</style><script type="text/javascript">var ezouid = "1";</script><base href="https://www.statscrew.com/football/stats/t-USFLAZW/y-1983"><script type='text/javascript'>
+var ezoTemplate = 'pub_site';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script>
+
+<div class="vital-info">United States Football League (<a href="https://www.statscrew.com/football/l-USFL/y-1983">USFL</a>)<br/>
+Team Record: 4-14 <br/>
+Finishing 4th in the USFL&#39;s Pacific Division<br/>
+Coach: <a href="https://www.statscrew.com/football/stats/c-shivedou001">Doug Shively</a> (4-14)<br/>Location: <a href="https://www.statscrew.com/sports/places/m-4081564">Phoenix, Arizona</a><br/>Attendance: 232,005, Avg. 25,778 in 9 home dates</div><a href="https://www.statscrew.com/football/roster/t-USFLAZW/y-1983">1983 Arizona Wranglers Roster</a><br/><a href="https://www.statscrew.com/football/results/t-USFLAZW/y-1983">1983 Arizona Wranglers Results</a><br/><p>The Arizona Wranglers of the United States Football League ended the 1983 season with a record of 4 wins and 14 losses, finishing fourth in the USFL&#39;s Pacific Division.<span id="ezoic-pub-ad-placeholder-157" class="ezoic-adpicker-ad"></span><span class="ezoic-ad medrectangle-3 medrectangle-3157 adtester-container adtester-container-157" data-ez-name="statscrew_com-medrectangle-3"><span id="div-gpt-ad-statscrew_com-medrectangle-3-0" ezaw="728" ezah="90" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-medrectangle-3-0')};</script></span></span></p><p>The Wranglers managed just 261 points, worst in the league, and the shaky defensive squad allowed 442, most in the circuit. Alan Risher  passed for 2,672 yards. Mark Keel paced  pass catchers, snagging 65 passes, while Jackie Flowers accumulated 869 receiving yards, while Neil Balholm provided receiving help, too.</p><p> Calvin Murray carried the ball for a team-best 699 yards for Arizona.</p><p> Tommy Wilcox picked off 6 opponent throws. Darryl Clark sacked opposing passers 6.5 times.</p><p>Doug Shively coached the team.<span id="ezoic-pub-ad-placeholder-158" class="ezoic-adpicker-ad"></span><span class="ezoic-ad banner-1 banner-1158 adtester-container adtester-container-158" data-ez-name="statscrew_com-banner-1"><span id="div-gpt-ad-statscrew_com-banner-1-0" ezaw="580" ezah="400" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-banner-1-0')};</script></span></span></p>
+
+<p class="agate">Click on column headings to sort.</p><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-138" class="ezoic-adpicker-ad"></span><span class="ezoic-ad box-3 box-3138 adtester-container adtester-container-138" data-ez-name="statscrew_com-box-3"><span id="div-gpt-ad-statscrew_com-box-3-0" ezaw="728" ezah="90" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-box-3-0')};</script></span></span>Passing:</h2>
+
+<div class="stat-table"><span id="ezoic-pub-ad-placeholder-161" class="ezoic-adpicker-ad"></span><span class="ezoic-ad large-mobile-banner-1 large-mobile-banner-1161 adtester-container adtester-container-161" data-ez-name="statscrew_com-large-mobile-banner-1"><span id="div-gpt-ad-statscrew_com-large-mobile-banner-1-0" ezaw="250" ezah="250" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-large-mobile-banner-1-0')};</script></span></span>
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Attempts">Att</a></th>
+<th class="dt-right"><a title="Completions">Comp</a></th>
+<th class="dt-right"><a title="Completion Percentage">Comp %</a></th>
+<th class="dt-right"><a title="Yards">Yds</a></th>
+<th class="dt-right"><a title="Yards per Attempt">Yds/Att</a></th>
+<th class="dt-right"><a title="PassingTouchdowns">TDs</a></th>
+<th class="dt-right"><a title="Touchdown Percentage">TD %</a></th>
+<th class="dt-right"><a title="Interceptions">Ints</a></th>
+<th class="dt-right"><a title="Interception Percentage">Int %</a></th>
+<th class="dt-right"><a title="Long Pass">Long</a></th>
+<th class="dt-right"><a title="Times Sacked">Sacked</a></th>
+<th class="dt-right"><a title="Yards Lost on Sacks">Yds Lost</a></th>
+<th class="dt-right"><a title="Passer Rating">Rating</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-risheala001">Alan Risher</a></td><td class="dt-right">424</td><td class="dt-right">236</td><td class="dt-right">55.7</td><td class="dt-right">2672</td><td class="dt-right">6.3</td><td class="dt-right">20</td><td class="dt-right">4.7</td><td class="dt-right">16</td><td class="dt-right">3.8</td><td class="dt-right">98t</td><td class="dt-right">47</td><td class="dt-right">317</td><td class="dt-right">74.7</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-manucdan001">Dan Manucci</a></td><td class="dt-right">119</td><td class="dt-right">52</td><td class="dt-right">43.7</td><td class="dt-right">577</td><td class="dt-right">4.8</td><td class="dt-right">2</td><td class="dt-right">1.7</td><td class="dt-right">8</td><td class="dt-right">6.7</td><td class="dt-right">48t</td><td class="dt-right">13</td><td class="dt-right">99</td><td class="dt-right">36.3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-kruegtod001">Todd Krueger</a></td><td class="dt-right">35</td><td class="dt-right">18</td><td class="dt-right">51.4</td><td class="dt-right">161</td><td class="dt-right">4.6</td><td class="dt-right">1</td><td class="dt-right">2.9</td><td class="dt-right">2</td><td class="dt-right">5.7</td><td class="dt-right">17</td><td class="dt-right">1</td><td class="dt-right">6</td><td class="dt-right">49.8</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-asmusjim001">Jim Asmus</a></td><td class="dt-right">1</td><td class="dt-right">1</td><td class="dt-right">100.0</td><td class="dt-right">28</td><td class="dt-right">28.0</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">28</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">118.8</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bluehar001">Harold Blue</a></td><td class="dt-right">2</td><td class="dt-right">1</td><td class="dt-right">50.0</td><td class="dt-right">9</td><td class="dt-right">4.5</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">1</td><td class="dt-right">50.0</td><td class="dt-right">9</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">22.9</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bledscur001">Curtis Bledsoe</a></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">12</td><td class="dt-right">0.0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">581</td><td class="dt-right">308</td><td class="dt-right">53.0</td><td class="dt-right">3447</td><td class="dt-right">5.9</td><td class="dt-right">23</td><td class="dt-right">4.0</td><td class="dt-right">27</td><td class="dt-right">4.6</td><td class="dt-right">98 </td><td class="dt-right">62</td><td class="dt-right">434</td><td class="dt-right"></td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-139" class="ezoic-adpicker-ad"></span><span class="ezoic-ad medrectangle-4 medrectangle-4139 adtester-container adtester-container-139" data-ez-name="statscrew_com-medrectangle-4"><span id="div-gpt-ad-statscrew_com-medrectangle-4-0" ezaw="580" ezah="400" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-medrectangle-4-0')};</script></span></span>Rushing:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Rush Attempts">No.</a></th>
+<th class="dt-right"><a title="Yards">Yds</a></th>
+<th class="dt-right"><a title="Average per Rush">Avg.</a></th>
+<th class="dt-right"><a title="Rush Long">Long</a></th>
+<th class="dt-right"><a title="Rushing Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-murracal001">Calvin Murray</a></td><td class="dt-right">179</td><td class="dt-right">699</td><td class="dt-right">3.9</td><td class="dt-right">34 </td><td class="dt-right">4</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-howelste001">Steve Howell</a></td><td class="dt-right">96</td><td class="dt-right">380</td><td class="dt-right">4.0</td><td class="dt-right">67 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-risheala001">Alan Risher</a></td><td class="dt-right">57</td><td class="dt-right">231</td><td class="dt-right">4.1</td><td class="dt-right">25 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-clarkdar001">Darryl Clark</a></td><td class="dt-right">81</td><td class="dt-right">219</td><td class="dt-right">2.7</td><td class="dt-right">16 </td><td class="dt-right">3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bledscur001">Curtis Bledsoe</a></td><td class="dt-right">43</td><td class="dt-right">188</td><td class="dt-right">4.4</td><td class="dt-right">23 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bluehar001">Harold Blue</a></td><td class="dt-right">34</td><td class="dt-right">123</td><td class="dt-right">3.6</td><td class="dt-right">25t</td><td class="dt-right">1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-manucdan001">Dan Manucci</a></td><td class="dt-right">12</td><td class="dt-right">94</td><td class="dt-right">7.8</td><td class="dt-right">35 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-banksdou001">Doug Banks</a></td><td class="dt-right">18</td><td class="dt-right">71</td><td class="dt-right">3.9</td><td class="dt-right">12 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-kruegtod001">Todd Krueger</a></td><td class="dt-right">2</td><td class="dt-right">8</td><td class="dt-right">4.0</td><td class="dt-right">6 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-flowejac001">Jackie Flowers</a></td><td class="dt-right">2</td><td class="dt-right">-2</td><td class="dt-right">-1.0</td><td class="dt-right">3 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-denfephi001">Phil Denfeld</a></td><td class="dt-right">1</td><td class="dt-right">-10</td><td class="dt-right">-10.0</td><td class="dt-right">-10 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mageekei001">Keith MaGee</a></td><td class="dt-right">1</td><td class="dt-right">-11</td><td class="dt-right">-11.0</td><td class="dt-right">-11 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-asmusjim001">Jim Asmus</a></td><td class="dt-right">1</td><td class="dt-right">-15</td><td class="dt-right">-15.0</td><td class="dt-right">-15 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">527</td><td class="dt-right">1975</td><td class="dt-right">3.7</td><td class="dt-right">67 </td><td class="dt-right">8</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-150" class="ezoic-adpicker-ad"></span>Receiving:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Receptions">No.</a></th>
+<th class="dt-right"><a title="Yards">Yds</a></th>
+<th class="dt-right"><a title="Average per Reception">Avg.</a></th>
+<th class="dt-right"><a title="Long Reception">Long</a></th>
+<th class="dt-right"><a title="Receiving Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-keelmar001">Mark Keel</a></td><td class="dt-right">65</td><td class="dt-right">802</td><td class="dt-right">12.3</td><td class="dt-right">27 </td><td class="dt-right">2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-flowejac001">Jackie Flowers</a></td><td class="dt-right">63</td><td class="dt-right">869</td><td class="dt-right">13.8</td><td class="dt-right">98t</td><td class="dt-right">11</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-balhonei001">Neil Balholm</a></td><td class="dt-right">63</td><td class="dt-right">703</td><td class="dt-right">11.2</td><td class="dt-right">27 </td><td class="dt-right">5</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-murracal001">Calvin Murray</a></td><td class="dt-right">40</td><td class="dt-right">390</td><td class="dt-right">9.8</td><td class="dt-right">79t</td><td class="dt-right">3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-howelste001">Steve Howell</a></td><td class="dt-right">17</td><td class="dt-right">123</td><td class="dt-right">7.2</td><td class="dt-right">20 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bluehar001">Harold Blue</a></td><td class="dt-right">13</td><td class="dt-right">84</td><td class="dt-right">6.5</td><td class="dt-right">11 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bledscur001">Curtis Bledsoe</a></td><td class="dt-right">12</td><td class="dt-right">75</td><td class="dt-right">6.2</td><td class="dt-right">18 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-smithmik001">Mike Smith</a></td><td class="dt-right">8</td><td class="dt-right">87</td><td class="dt-right">10.9</td><td class="dt-right">16 </td><td class="dt-right">1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mageekei001">Keith MaGee</a></td><td class="dt-right">6</td><td class="dt-right">85</td><td class="dt-right">14.2</td><td class="dt-right">22 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-clarkdar001">Darryl Clark</a></td><td class="dt-right">6</td><td class="dt-right">66</td><td class="dt-right">11.0</td><td class="dt-right">28 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-henrywal001">Wally Henry</a></td><td class="dt-right">5</td><td class="dt-right">72</td><td class="dt-right">14.4</td><td class="dt-right">48 </td><td class="dt-right">1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-denfephi001">Phil Denfeld</a></td><td class="dt-right">4</td><td class="dt-right">24</td><td class="dt-right">6.0</td><td class="dt-right">8 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-banksdou001">Doug Banks</a></td><td class="dt-right">2</td><td class="dt-right">14</td><td class="dt-right">7.0</td><td class="dt-right">7 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-reddver001">Verlon Redd</a></td><td class="dt-right">1</td><td class="dt-right">28</td><td class="dt-right">28.0</td><td class="dt-right">28 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-risheala001">Alan Risher</a></td><td class="dt-right">1</td><td class="dt-right">9</td><td class="dt-right">9.0</td><td class="dt-right">9 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-ryckmbil001">Billy Ryckman</a></td><td class="dt-right">1</td><td class="dt-right">9</td><td class="dt-right">9.0</td><td class="dt-right">9 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mckalbil002">Bill McKale</a></td><td class="dt-right">1</td><td class="dt-right">7</td><td class="dt-right">7.0</td><td class="dt-right">7 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">308</td><td class="dt-right">3447</td><td class="dt-right">11.2</td><td class="dt-right">98 </td><td class="dt-right">23</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-151" class="ezoic-adpicker-ad"></span>Kicking:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Extra Points/Converts Attempted">X/CA</a></th>
+<th class="dt-right"><a title="Extra Points/Converts Made">X/CM</a></th>
+
+<th class="dt-right"><a title="Extra Points/Convert Percentage">X/CP %</a></th>
+<th class="dt-right"><a title="Field Goal Attempts">FGA</a></th>
+<th class="dt-right"><a title="Field Goals Made">FGM</a></th>
+
+<th class="dt-right"><a title="Field Goal Percentage">FG %</a></th>
+
+
+<th class="dt-right"><a title="Kicking Points">Pts.</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-asmusjim001">Jim Asmus</a></td><td class="dt-right">15</td><td class="dt-right">14</td><td class="dt-right">93.3</td><td class="dt-right">19</td><td class="dt-right">10</td><td class="dt-right">52.6</td><td class="dt-right">44</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-denfephi001">Phil Denfeld</a></td><td class="dt-right">7</td><td class="dt-right">7</td><td class="dt-right">100.0</td><td class="dt-right">7</td><td class="dt-right">4</td><td class="dt-right">57.1</td><td class="dt-right">19</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">22</td><td class="dt-right">21</td><td class="dt-right">95.5</td><td class="dt-right">26</td><td class="dt-right">14</td><td class="dt-right">53.8</td><td class="dt-right">63</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-152" class="ezoic-adpicker-ad"></span><span class="ezoic-ad large-leaderboard-2 large-leaderboard-2152 adtester-container adtester-container-152" data-ez-name="statscrew_com-large-leaderboard-2"><span id="div-gpt-ad-statscrew_com-large-leaderboard-2-0" ezaw="250" ezah="250" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-large-leaderboard-2-0')};</script></span></span>Punting:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Punts">No.</a></th>
+<th class="dt-right"><a title="Punting Yards">Yds</a></th>
+<th class="dt-right"><a title="Average Punt">Avg.</a></th>
+<th class="dt-right"><a title="Long Punt">Long</a></th>
+
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-meesmik001">Mike Mees</a></td><td class="dt-right">52</td><td class="dt-right">2059</td><td class="dt-right">39.6</td><td class="dt-right">61</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-asmusjim001">Jim Asmus</a></td><td class="dt-right">52</td><td class="dt-right">2012</td><td class="dt-right">38.7</td><td class="dt-right">70</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">104</td><td class="dt-right">4071</td><td class="dt-right">39.1</td><td class="dt-right">70</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-153" class="ezoic-adpicker-ad"></span>Punt Returns:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Punt Returns">No.</a></th>
+<th class="dt-right"><a title="Punt Return Yards">Yds</a></th>
+<th class="dt-right"><a title="Punt Return Average">Avg.</a></th>
+<th class="dt-right"><a title="Punt Return Long">Long</a></th>
+
+<th class="dt-right"><a title="Punt Return Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-henrywal001">Wally Henry</a></td><td class="dt-right">20</td><td class="dt-right">161</td><td class="dt-right">8.0</td><td class="dt-right">34 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-boonejam001">Jamie Boone</a></td><td class="dt-right">2</td><td class="dt-right">34</td><td class="dt-right">17.0</td><td class="dt-right">27 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-ryckmbil001">Billy Ryckman</a></td><td class="dt-right">7</td><td class="dt-right">32</td><td class="dt-right">4.6</td><td class="dt-right">12 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-eppesroy001">Roy Eppes</a></td><td class="dt-right">4</td><td class="dt-right">5</td><td class="dt-right">1.2</td><td class="dt-right">4 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">33</td><td class="dt-right">232</td><td class="dt-right">7.0</td><td class="dt-right">34 </td><td class="dt-right">0</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-154" class="ezoic-adpicker-ad"></span>Kick Returns:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Kick Returns">No.</a></th>
+<th class="dt-right"><a title="Kick Return Yards">Yds</a></th>
+<th class="dt-right"><a title="Kick Return Average">Avg.</a></th>
+<th class="dt-right"><a title="Kick Return Long">Long</a></th>
+<th class="dt-right"><a title="Kick Return Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-henrywal001">Wally Henry</a></td><td class="dt-right">32</td><td class="dt-right">676</td><td class="dt-right">21.1</td><td class="dt-right">30 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bluehar001">Harold Blue</a></td><td class="dt-right">15</td><td class="dt-right">282</td><td class="dt-right">18.8</td><td class="dt-right">30 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-murracal001">Calvin Murray</a></td><td class="dt-right">6</td><td class="dt-right">100</td><td class="dt-right">16.7</td><td class="dt-right">29 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-wilsokir002">Kirk Wilson</a></td><td class="dt-right">3</td><td class="dt-right">60</td><td class="dt-right">20.0</td><td class="dt-right">27 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mageekei001">Keith MaGee</a></td><td class="dt-right">3</td><td class="dt-right">50</td><td class="dt-right">16.7</td><td class="dt-right">23 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-flowejac001">Jackie Flowers</a></td><td class="dt-right">2</td><td class="dt-right">44</td><td class="dt-right">22.0</td><td class="dt-right">27 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-wilcotom001">Tommy Wilcox</a></td><td class="dt-right">3</td><td class="dt-right">36</td><td class="dt-right">12.0</td><td class="dt-right">14 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-hallhol001">Hollis Hall</a></td><td class="dt-right">1</td><td class="dt-right">24</td><td class="dt-right">24.0</td><td class="dt-right">24 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-banksdou001">Doug Banks</a></td><td class="dt-right">3</td><td class="dt-right">21</td><td class="dt-right">7.0</td><td class="dt-right">7 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-reddver001">Verlon Redd</a></td><td class="dt-right">2</td><td class="dt-right">11</td><td class="dt-right">5.5</td><td class="dt-right">10 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-clarkdar001">Darryl Clark</a></td><td class="dt-right">2</td><td class="dt-right">10</td><td class="dt-right">5.0</td><td class="dt-right">6 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-eppesroy001">Roy Eppes</a></td><td class="dt-right">1</td><td class="dt-right">2</td><td class="dt-right">2.0</td><td class="dt-right">2 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-ryckmbil001">Billy Ryckman</a></td><td class="dt-right">2</td><td class="dt-right">2</td><td class="dt-right">1.0</td><td class="dt-right">2 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">75</td><td class="dt-right">1318</td><td class="dt-right">17.6</td><td class="dt-right">30 </td><td class="dt-right">0</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-155" class="ezoic-adpicker-ad"></span>Interceptions:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Interception Returns">No.</a></th>
+<th class="dt-right"><a title="Interception Return Yards">Yds</a></th>
+<th class="dt-right"><a title="Interception Return Average">Avg.</a></th>
+<th class="dt-right"><a title="Interception Return Long">Long</a></th>
+<th class="dt-right"><a title="Interception Return Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-wilcotom001">Tommy Wilcox</a></td><td class="dt-right">6</td><td class="dt-right">59</td><td class="dt-right">9.8</td><td class="dt-right">38 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mitchaar001">Aaron Mitchell</a></td><td class="dt-right">3</td><td class="dt-right">109</td><td class="dt-right">36.3</td><td class="dt-right">66 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-walkeedd002">Eddie Ray Walker</a></td><td class="dt-right">2</td><td class="dt-right">63</td><td class="dt-right">31.5</td><td class="dt-right">35 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-wilsokir002">Kirk Wilson</a></td><td class="dt-right">2</td><td class="dt-right">36</td><td class="dt-right">18.0</td><td class="dt-right">25 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-apunaben001">Ben Apuna</a></td><td class="dt-right">2</td><td class="dt-right">31</td><td class="dt-right">15.5</td><td class="dt-right">17 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-norrisam001">Sam Norris</a></td><td class="dt-right">2</td><td class="dt-right">23</td><td class="dt-right">11.5</td><td class="dt-right">23 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-hallhol001">Hollis Hall</a></td><td class="dt-right">2</td><td class="dt-right">3</td><td class="dt-right">1.5</td><td class="dt-right">2 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mccoylar001">Larry McCoy</a></td><td class="dt-right">1</td><td class="dt-right">13</td><td class="dt-right">13.0</td><td class="dt-right">13 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">20</td><td class="dt-right">337</td><td class="dt-right">16.8</td><td class="dt-right">66 </td><td class="dt-right">0</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-156" class="ezoic-adpicker-ad"></span>Sacks:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Sacks">No.</a></th>
+<th class="dt-right"><a title="Sack Yards">Yds</a></th>
+<th class="dt-right"><a title="Average Yards per Sack">Avg.</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-clarkdar001">Darryl Clark</a></td><td class="dt-right">6.5</td><td class="dt-right">42</td><td class="dt-right">6.5</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-nelsobob002">Bob Nelson</a></td><td class="dt-right">6.0</td><td class="dt-right">44</td><td class="dt-right">7.3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-norrisam001">Sam Norris</a></td><td class="dt-right">4.0</td><td class="dt-right">33</td><td class="dt-right">8.2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-fisherob001">Robin Fisher</a></td><td class="dt-right">4.0</td><td class="dt-right">24</td><td class="dt-right">6.0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-cattaray001">Ray Cattage</a></td><td class="dt-right">3.0</td><td class="dt-right">32</td><td class="dt-right">10.7</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-peterjoe003">Joel Peters</a></td><td class="dt-right">2.0</td><td class="dt-right">9</td><td class="dt-right">4.5</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-kimmejon001">Jon Kimmel</a></td><td class="dt-right">1.0</td><td class="dt-right">9</td><td class="dt-right">9.0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-josteran001">Randy Jostes</a></td><td class="dt-right">1.0</td><td class="dt-right">3</td><td class="dt-right">3.0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-perkigle001">Glenn Perkins</a></td><td class="dt-right">0.5</td><td class="dt-right">6</td><td class="dt-right">12.0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">28.0</td><td class="dt-right">202</td><td class="dt-right">7.2</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2>Total Scoring:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-center"></th>
+<th class="dt-center" colspan="8">Touchdowns</th>
+<th class="dt-center" colspan="5">Other</th>
+<th class="dt-right">Total</th>
+</tr>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Rushing Touchdowns">Rush</a></th>
+<th class="dt-right"><a title="Receiving Touchdowns">Rec</a></th>
+<th class="dt-right"><a title="Punt Return Touchdowns">Punt</a></th>
+<th class="dt-right"><a title="Kick Return Touchdowns">Kick</a></th>
+<th class="dt-right"><a title="Missed Field Goal Return Touchdowns">MFG</a></th>
+<th class="dt-right"><a title="Interception Return Touchdowns">Int</a></th>
+<th class="dt-right"><a title="Fumble Return Touchdowns">Fum</a></th>
+<th class="dt-right"><a title="Other Touchdowns">Other</a></th>
+<th class="dt-right"><a title="Field Goals">FG</a></th>
+<th class="dt-right"><a title="Extra Points, Converts, Action Points, XFL PATs">X/C</a></th>
+<th class="dt-right"><a title="Singles">Single</a></th>
+<th class="dt-right"><a title="Two-Point Conversions">2Pt</a></th>
+<th class="dt-right"><a title="Safeties">Saf</a></th>
+<th class="dt-right"><a title="Total Points">Points</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-flowejac001">Jackie Flowers</a></td><td class="dt-right">0</td><td class="dt-right">11</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">66</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-asmusjim001">Jim Asmus</a></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">10</td><td class="dt-right">14</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">44</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-murracal001">Calvin Murray</a></td><td class="dt-right">4</td><td class="dt-right">3</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">42</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-balhonei001">Neil Balholm</a></td><td class="dt-right">0</td><td class="dt-right">5</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">2</td><td class="dt-right">0</td><td class="dt-right">34</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-denfephi001">Phil Denfeld</a></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">4</td><td class="dt-right">7</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">19</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-clarkdar001">Darryl Clark</a></td><td class="dt-right">3</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">18</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-keelmar001">Mark Keel</a></td><td class="dt-right">0</td><td class="dt-right">2</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">14</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bluehar001">Harold Blue</a></td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">2</td><td class="dt-right">0</td><td class="dt-right">10</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-smithmik001">Mike Smith</a></td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">6</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-henrywal001">Wally Henry</a></td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">6</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-howelste001">Steve Howell</a></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">2</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">8</td><td class="dt-right">23</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">14</td><td class="dt-right">21</td><td class="dt-right">0</td><td class="dt-right">6</td><td class="dt-right">0</td><td class="dt-right">261</td></tr>
+</tfoot>
+</table>
+</div>
+<br/>
+
+<script src="https://www.statscrew.com/sorttable.js" async="" defer=""></script>
+
+<meta property="og:url" content="https://www.statscrew.com/football/stats/t-USFLBIR/y-1983"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="1983 Birmingham Stallions football Statistics on StatsCrew.com"/>
+<meta property="og:description" content="Check out the 1983 Birmingham Stallions football Statistics from the Stats Crew."/>
+<meta property="og:image" content="https://www.statscrew.com/graphics/sc_logo_200x200.png"/>
+<style>.ezoic-ad.box-2144 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:970px;padding:0;text-align:center !important; }
+.ezoic-ad.large-mobile-banner-2162 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-3157 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.banner-1158 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:400px;min-width:580px;padding:0;text-align:center !important; }
+.ezoic-ad.box-3138 { display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.large-mobile-banner-1161 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-4139 { display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:400px;min-width:580px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-2152 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:90px;min-width:728px;padding:0;text-align:center !important; }
+.ezoic-ad.box-1165 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-billboard-2163 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1 { border:none !important;display:block !important;float:none !important;line-height:0px;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.large-leaderboard-1106 { background:0 0 !important;display:block !important;float:none !important;line-height:0px;margin-left:auto !important;margin-right:auto !important;max-width:100% !important;min-width:300px;padding:0;text-align:center !important;width:300px; }
+.ezoic-ad.banner-2149 { display:block !important;float:none;line-height:0px;margin-bottom:15px !important;margin-left:0px !important;margin-right:0px !important;margin-top:15px !important;max-width:100% !important;min-height:250px;min-width:250px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1 { border:none !important;display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1 { border:none !important;display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1 { border:none !important;display:block !important;float:none;line-height:0px;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;max-width:100% !important;min-height:250px;min-width:300px;padding:0;text-align:center !important; }
+.ezoic-ad.medrectangle-1108 { background:0 0 !important;display:flex !important;float:none;justify-content:space-between;line-height:0px;margin-bottom:10px !important;margin-left:auto !important;margin-right:auto !important;margin-top:10px !important;max-width:100% !important;min-width:970px;padding:0;text-align:center !important;width:970px; }
+.ezoic-ad.medrectangle-2101 { display:inline-block;float:none;line-height:0px;max-width:100% !important;min-height:90px;min-width:728px;padding:0; }
+.ezoic-ad{display:inline-block;border:0px;}.ezoic-ad>div>iframe{margin:0px!important;padding:0px!important;}
+.adtester-container-137,.adtester-container-124,.adtester-container-140,.adtester-container-154,.adtester-container-155,.adtester-container-164,.adtester-container-122,.adtester-container-136,.adtester-container-166,.adtester-container-123,.adtester-container-114,.adtester-container-141,.adtester-container-151,.adtester-container-110,.adtester-container-121,.adtester-container-117,.adtester-container-150,.adtester-container-104,.adtester-container-153,.adtester-container-118,.adtester-container-113,.adtester-container-119,.adtester-container-120,.adtester-container-111,.adtester-container-156,.adtester-container-103,.adtester-container-160,.adtester-container-109,.adtester-container-107,.adtester-container-115,.adtester-container-105,.adtester-container-116{display:none!important}
+.ezmob-footer{position:fixed;left:0;bottom:0;width:100%;background:#fff;z-index:100000;line-height:0}.ezmob-footer-desktop{background-color:#fffc;border-top:1px solid #d3d3d3;padding-top:5px}.ezmob-footer-close{cursor:pointer;color:#b2b2b2;border:1px solid #b2b2b2;border-radius:20px;background:#fff;line-height:20px;display:inline-block;font-size:20px;font-family:arial,sans-serif;padding:0 5px;position:absolute;top:5px;right:5px;height:24px;width:21px;text-align:center}body {
+					padding-bottom: 120px !important;
+					height: auto;
+				}
+				.ezmob-footer-close-mobile {
+				display:none;
+			}
+			#ezmobfooter {
+				bottom: 0px !important;
+			}
+			
+
+		@media (min-width: 900px) {
+			.ez-sticky {
+				position: sticky;
+				position: -webkit-sticky;
+				top: 80px;
+				z-index:10;
+			}
+		}
+	</style><script type="text/javascript">var ezouid = "1";</script><base href="https://www.statscrew.com/football/stats/t-USFLBIR/y-1983"><script type='text/javascript'>
+var ezoTemplate = 'pub_site';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script>
+
+<!-- START EZHEAD -->
+<script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 36983;
+var ezdomain = 'statscrew.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+
+<div class="vital-info">United States Football League (<a href="https://www.statscrew.com/football/l-USFL/y-1983">USFL</a>)<br/>
+Team Record: 9-9 <br/>
+Finishing 4th in the USFL&#39;s Central Division<br/>
+Coach: <a href="https://www.statscrew.com/football/stats/c-dotscrol001">Rollie Dotsch</a> (9-9)<br/>Location: <a href="https://www.statscrew.com/sports/places/m-4075624">Birmingham, Alabama</a><br/>Attendance: 198,417, Avg. 22,046 in 9 home dates</div><a href="https://www.statscrew.com/football/roster/t-USFLBIR/y-1983">1983 Birmingham Stallions Roster</a><br/><a href="https://www.statscrew.com/football/results/t-USFLBIR/y-1983">1983 Birmingham Stallions Results</a><br/><p>The Birmingham Stallions of the United States Football League ended the 1983 season with a record of 9 wins and 9 losses, finishing fourth in the USFL&#39;s Central Division.<span id="ezoic-pub-ad-placeholder-157" class="ezoic-adpicker-ad"></span><span class="ezoic-ad medrectangle-3 medrectangle-3157 adtester-container adtester-container-157" data-ez-name="statscrew_com-medrectangle-3"><span id="div-gpt-ad-statscrew_com-medrectangle-3-0" ezaw="728" ezah="90" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-medrectangle-3-0')};</script></span></span></p><p>The Stallions scored 343 points, while the defense yielded 326. Ken Talton rushed for a team-best 907 yards for Birmingham.</p><p> Bob Lane  passed for 2,264 yards. Jim Smith paced all  receivers, catching 51 passes for 756 yards, while Darryl Mason provided receiving help, too.</p><p> Emmuel Thompson intercepted 5 errant tosses from the opposition. Mike Raines sacked opposing passers 8 times.</p><p>Rollie Dotsch coached the team.<span id="ezoic-pub-ad-placeholder-158" class="ezoic-adpicker-ad"></span><span class="ezoic-ad banner-1 banner-1158 adtester-container adtester-container-158" data-ez-name="statscrew_com-banner-1"><span id="div-gpt-ad-statscrew_com-banner-1-0" ezaw="580" ezah="400" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:400px;min-width:580px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-banner-1-0')};</script></span></span></p>
+
+<p class="agate">Click on column headings to sort.</p><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-138" class="ezoic-adpicker-ad"></span><span class="ezoic-ad box-3 box-3138 adtester-container adtester-container-138" data-ez-name="statscrew_com-box-3"><span id="div-gpt-ad-statscrew_com-box-3-0" ezaw="728" ezah="90" style="position:relative;z-index:0;display:inline-block;padding:0;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-box-3-0')};</script></span></span>Passing:</h2>
+
+<div class="stat-table"><span id="ezoic-pub-ad-placeholder-161" class="ezoic-adpicker-ad"></span><span class="ezoic-ad large-mobile-banner-1 large-mobile-banner-1161 adtester-container adtester-container-161" data-ez-name="statscrew_com-large-mobile-banner-1"><span id="div-gpt-ad-statscrew_com-large-mobile-banner-1-0" ezaw="250" ezah="250" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-large-mobile-banner-1-0')};</script></span></span>
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Attempts">Att</a></th>
+<th class="dt-right"><a title="Completions">Comp</a></th>
+<th class="dt-right"><a title="Completion Percentage">Comp %</a></th>
+<th class="dt-right"><a title="Yards">Yds</a></th>
+<th class="dt-right"><a title="Yards per Attempt">Yds/Att</a></th>
+<th class="dt-right"><a title="PassingTouchdowns">TDs</a></th>
+<th class="dt-right"><a title="Touchdown Percentage">TD %</a></th>
+<th class="dt-right"><a title="Interceptions">Ints</a></th>
+<th class="dt-right"><a title="Interception Percentage">Int %</a></th>
+<th class="dt-right"><a title="Long Pass">Long</a></th>
+<th class="dt-right"><a title="Times Sacked">Sacked</a></th>
+<th class="dt-right"><a title="Yards Lost on Sacks">Yds Lost</a></th>
+<th class="dt-right"><a title="Passer Rating">Rating</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-lanebob002">Bob Lane</a></td><td class="dt-right">346</td><td class="dt-right">175</td><td class="dt-right">50.6</td><td class="dt-right">2264</td><td class="dt-right">6.5</td><td class="dt-right">14</td><td class="dt-right">4.0</td><td class="dt-right">18</td><td class="dt-right">5.2</td><td class="dt-right">53</td><td class="dt-right">15</td><td class="dt-right">106</td><td class="dt-right">63.3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-collireg001">Reggie Collier</a></td><td class="dt-right">108</td><td class="dt-right">47</td><td class="dt-right">43.5</td><td class="dt-right">604</td><td class="dt-right">5.6</td><td class="dt-right">1</td><td class="dt-right">0.9</td><td class="dt-right">7</td><td class="dt-right">6.5</td><td class="dt-right">46t</td><td class="dt-right">14</td><td class="dt-right">132</td><td class="dt-right">37.7</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-willibre003">Brett Williams</a></td><td class="dt-right">20</td><td class="dt-right">9</td><td class="dt-right">45.0</td><td class="dt-right">130</td><td class="dt-right">6.5</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">2</td><td class="dt-right">10.0</td><td class="dt-right">39</td><td class="dt-right">1</td><td class="dt-right">5</td><td class="dt-right">27.1</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">474</td><td class="dt-right">231</td><td class="dt-right">48.7</td><td class="dt-right">2998</td><td class="dt-right">6.3</td><td class="dt-right">15</td><td class="dt-right">3.2</td><td class="dt-right">27</td><td class="dt-right">5.7</td><td class="dt-right">53 </td><td class="dt-right">30</td><td class="dt-right">243</td><td class="dt-right"></td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-139" class="ezoic-adpicker-ad"></span><span class="ezoic-ad medrectangle-4 medrectangle-4139 adtester-container adtester-container-139" data-ez-name="statscrew_com-medrectangle-4"><span id="div-gpt-ad-statscrew_com-medrectangle-4-0" ezaw="580" ezah="400" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:400px;min-width:580px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-medrectangle-4-0')};</script></span></span>Rushing:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Rush Attempts">No.</a></th>
+<th class="dt-right"><a title="Yards">Yds</a></th>
+<th class="dt-right"><a title="Average per Rush">Avg.</a></th>
+<th class="dt-right"><a title="Rush Long">Long</a></th>
+<th class="dt-right"><a title="Rushing Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-taltoken001">Ken Talton</a></td><td class="dt-right">228</td><td class="dt-right">907</td><td class="dt-right">4.0</td><td class="dt-right">28 </td><td class="dt-right">5</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-gantear001">Earl Gant</a></td><td class="dt-right">133</td><td class="dt-right">530</td><td class="dt-right">4.0</td><td class="dt-right">19 </td><td class="dt-right">2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-quarlcor001">Cornelius Quarles</a></td><td class="dt-right">107</td><td class="dt-right">495</td><td class="dt-right">4.6</td><td class="dt-right">39t</td><td class="dt-right">3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-whitebil002">Billy White</a></td><td class="dt-right">117</td><td class="dt-right">349</td><td class="dt-right">3.0</td><td class="dt-right">14 </td><td class="dt-right">2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-collireg001">Reggie Collier</a></td><td class="dt-right">39</td><td class="dt-right">253</td><td class="dt-right">6.5</td><td class="dt-right">30 </td><td class="dt-right">4</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-johnslon002">Lonnie Johnson</a></td><td class="dt-right">52</td><td class="dt-right">181</td><td class="dt-right">3.5</td><td class="dt-right">22 </td><td class="dt-right">3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-lanebob002">Bob Lane</a></td><td class="dt-right">42</td><td class="dt-right">178</td><td class="dt-right">4.2</td><td class="dt-right">32 </td><td class="dt-right">3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-willibre003">Brett Williams</a></td><td class="dt-right">7</td><td class="dt-right">58</td><td class="dt-right">8.3</td><td class="dt-right">17 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-smithjim005">Jim Smith</a></td><td class="dt-right">5</td><td class="dt-right">39</td><td class="dt-right">7.8</td><td class="dt-right">10 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-frederon001">Ron Frederick</a></td><td class="dt-right">4</td><td class="dt-right">19</td><td class="dt-right">4.8</td><td class="dt-right">17 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-skibijoh001">John Skibinski</a></td><td class="dt-right">6</td><td class="dt-right">13</td><td class="dt-right">2.2</td><td class="dt-right">4 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-moysyl001">Sylvester Moy</a></td><td class="dt-right">1</td><td class="dt-right">-5</td><td class="dt-right">-5.0</td><td class="dt-right">-5 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">741</td><td class="dt-right">3017</td><td class="dt-right">4.1</td><td class="dt-right">39 </td><td class="dt-right">22</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-150" class="ezoic-adpicker-ad"></span>Receiving:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Receptions">No.</a></th>
+<th class="dt-right"><a title="Yards">Yds</a></th>
+<th class="dt-right"><a title="Average per Reception">Avg.</a></th>
+<th class="dt-right"><a title="Long Reception">Long</a></th>
+<th class="dt-right"><a title="Receiving Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-smithjim005">Jim Smith</a></td><td class="dt-right">51</td><td class="dt-right">756</td><td class="dt-right">14.8</td><td class="dt-right">39 </td><td class="dt-right">3</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-masondar001">Darryl Mason</a></td><td class="dt-right">45</td><td class="dt-right">547</td><td class="dt-right">12.2</td><td class="dt-right">33 </td><td class="dt-right">2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-andergre002">Greg Anderson</a></td><td class="dt-right">28</td><td class="dt-right">529</td><td class="dt-right">18.9</td><td class="dt-right">50t</td><td class="dt-right">5</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-gantear001">Earl Gant</a></td><td class="dt-right">24</td><td class="dt-right">299</td><td class="dt-right">12.5</td><td class="dt-right">37 </td><td class="dt-right">1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-taltoken001">Ken Talton</a></td><td class="dt-right">21</td><td class="dt-right">156</td><td class="dt-right">7.4</td><td class="dt-right">25 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-frederon001">Ron Frederick</a></td><td class="dt-right">16</td><td class="dt-right">290</td><td class="dt-right">18.1</td><td class="dt-right">46t</td><td class="dt-right">2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-moysyl001">Sylvester Moy</a></td><td class="dt-right">12</td><td class="dt-right">203</td><td class="dt-right">16.9</td><td class="dt-right">53 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-quarlcor001">Cornelius Quarles</a></td><td class="dt-right">12</td><td class="dt-right">86</td><td class="dt-right">7.2</td><td class="dt-right">17 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-whitebil002">Billy White</a></td><td class="dt-right">7</td><td class="dt-right">26</td><td class="dt-right">3.7</td><td class="dt-right">8 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-stephste001">Steve Stephens</a></td><td class="dt-right">6</td><td class="dt-right">56</td><td class="dt-right">9.3</td><td class="dt-right">17 </td><td class="dt-right">1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-dirdejoh001">Johnnie Dirden</a></td><td class="dt-right">3</td><td class="dt-right">22</td><td class="dt-right">7.3</td><td class="dt-right">12 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-skibijoh001">John Skibinski</a></td><td class="dt-right">2</td><td class="dt-right">13</td><td class="dt-right">6.5</td><td class="dt-right">8 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-johnslon002">Lonnie Johnson</a></td><td class="dt-right">2</td><td class="dt-right">12</td><td class="dt-right">6.0</td><td class="dt-right">16t</td><td class="dt-right">1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-kincamik001">Mike Kincaid</a></td><td class="dt-right">1</td><td class="dt-right">3</td><td class="dt-right">3.0</td><td class="dt-right">3 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-norwosco001">Scott Norwood</a></td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">0 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">231</td><td class="dt-right">2998</td><td class="dt-right">13.0</td><td class="dt-right">53 </td><td class="dt-right">15</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-151" class="ezoic-adpicker-ad"></span>Kicking:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Extra Points/Converts Attempted">X/CA</a></th>
+<th class="dt-right"><a title="Extra Points/Converts Made">X/CM</a></th>
+
+<th class="dt-right"><a title="Extra Points/Convert Percentage">X/CP %</a></th>
+<th class="dt-right"><a title="Field Goal Attempts">FGA</a></th>
+<th class="dt-right"><a title="Field Goals Made">FGM</a></th>
+
+<th class="dt-right"><a title="Field Goal Percentage">FG %</a></th>
+
+
+<th class="dt-right"><a title="Kicking Points">Pts.</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-norwosco001">Scott Norwood</a></td><td class="dt-right">35</td><td class="dt-right">34</td><td class="dt-right">97.1</td><td class="dt-right">34</td><td class="dt-right">25</td><td class="dt-right">73.5</td><td class="dt-right">109</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">35</td><td class="dt-right">34</td><td class="dt-right">97.1</td><td class="dt-right">34</td><td class="dt-right">25</td><td class="dt-right">73.5</td><td class="dt-right">109</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-152" class="ezoic-adpicker-ad"></span><span class="ezoic-ad large-leaderboard-2 large-leaderboard-2152 adtester-container adtester-container-152" data-ez-name="statscrew_com-large-leaderboard-2"><span id="div-gpt-ad-statscrew_com-large-leaderboard-2-0" ezaw="250" ezah="250" style="position:relative;z-index:0;display:inline-block;padding:0;width:100%;max-width:1200px;margin-left:auto !important;margin-right:auto !important;min-height:90px;min-width:728px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">if(typeof __ez_fad_position != 'undefined'){__ez_fad_position('div-gpt-ad-statscrew_com-large-leaderboard-2-0')};</script></span></span>Punting:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Punts">No.</a></th>
+<th class="dt-right"><a title="Punting Yards">Yds</a></th>
+<th class="dt-right"><a title="Average Punt">Avg.</a></th>
+<th class="dt-right"><a title="Long Punt">Long</a></th>
+
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-bolliala001">Alan Bollinger</a></td><td class="dt-right">51</td><td class="dt-right">2008</td><td class="dt-right">39.4</td><td class="dt-right">56</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-johnsski002">Skip Johnston</a></td><td class="dt-right">21</td><td class="dt-right">870</td><td class="dt-right">41.4</td><td class="dt-right">63</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-casardar001">Dario Casarino</a></td><td class="dt-right">12</td><td class="dt-right">437</td><td class="dt-right">36.4</td><td class="dt-right">61</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-team001"> Team</a></td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">85</td><td class="dt-right">3315</td><td class="dt-right">39.0</td><td class="dt-right">63</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-153" class="ezoic-adpicker-ad"></span>Punt Returns:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Punt Returns">No.</a></th>
+<th class="dt-right"><a title="Punt Return Yards">Yds</a></th>
+<th class="dt-right"><a title="Punt Return Average">Avg.</a></th>
+<th class="dt-right"><a title="Punt Return Long">Long</a></th>
+
+<th class="dt-right"><a title="Punt Return Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-frederon001">Ron Frederick</a></td><td class="dt-right">23</td><td class="dt-right">170</td><td class="dt-right">7.4</td><td class="dt-right">15 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-kincamik001">Mike Kincaid</a></td><td class="dt-right">15</td><td class="dt-right">100</td><td class="dt-right">6.7</td><td class="dt-right">14 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-whitebil002">Billy White</a></td><td class="dt-right">1</td><td class="dt-right">15</td><td class="dt-right">15.0</td><td class="dt-right">15 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-millekev001">Kevin Miller</a></td><td class="dt-right">4</td><td class="dt-right">6</td><td class="dt-right">1.5</td><td class="dt-right">3 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-taltoken001">Ken Talton</a></td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">0 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-dirdejoh001">Johnnie Dirden</a></td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">0 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">45</td><td class="dt-right">291</td><td class="dt-right">6.5</td><td class="dt-right">15 </td><td class="dt-right">0</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-154" class="ezoic-adpicker-ad"></span>Kick Returns:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Kick Returns">No.</a></th>
+<th class="dt-right"><a title="Kick Return Yards">Yds</a></th>
+<th class="dt-right"><a title="Kick Return Average">Avg.</a></th>
+<th class="dt-right"><a title="Kick Return Long">Long</a></th>
+<th class="dt-right"><a title="Kick Return Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-kincamik001">Mike Kincaid</a></td><td class="dt-right">19</td><td class="dt-right">404</td><td class="dt-right">21.3</td><td class="dt-right">43 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-dirdejoh001">Johnnie Dirden</a></td><td class="dt-right">16</td><td class="dt-right">322</td><td class="dt-right">20.1</td><td class="dt-right">41 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-johnslon002">Lonnie Johnson</a></td><td class="dt-right">10</td><td class="dt-right">190</td><td class="dt-right">19.0</td><td class="dt-right">39 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-grandcha001">Charles Grandjean</a></td><td class="dt-right">8</td><td class="dt-right">97</td><td class="dt-right">12.1</td><td class="dt-right">26 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-millekev001">Kevin Miller</a></td><td class="dt-right">2</td><td class="dt-right">34</td><td class="dt-right">17.0</td><td class="dt-right">21 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-whitebil002">Billy White</a></td><td class="dt-right">1</td><td class="dt-right">27</td><td class="dt-right">27.0</td><td class="dt-right">27 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-frederon001">Ron Frederick</a></td><td class="dt-right">1</td><td class="dt-right">14</td><td class="dt-right">14.0</td><td class="dt-right">14 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-trotmcha001">Charlie Trotman</a></td><td class="dt-right">1</td><td class="dt-right">11</td><td class="dt-right">11.0</td><td class="dt-right">11 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-battamar002">Mark Battaglia</a></td><td class="dt-right">1</td><td class="dt-right">10</td><td class="dt-right">10.0</td><td class="dt-right">10 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-hickmdal001">Dallas Hickman</a></td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0.0</td><td class="dt-right">0 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">60</td><td class="dt-right">1109</td><td class="dt-right">18.5</td><td class="dt-right">43 </td><td class="dt-right">0</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-155" class="ezoic-adpicker-ad"></span>Interceptions:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Interception Returns">No.</a></th>
+<th class="dt-right"><a title="Interception Return Yards">Yds</a></th>
+<th class="dt-right"><a title="Interception Return Average">Avg.</a></th>
+<th class="dt-right"><a title="Interception Return Long">Long</a></th>
+<th class="dt-right"><a title="Interception Return Touchdowns">TDs</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-thompemm001">Emmuel Thompson</a></td><td class="dt-right">5</td><td class="dt-right">24</td><td class="dt-right">4.8</td><td class="dt-right">22 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mcphelar001">Larry McPherson</a></td><td class="dt-right">4</td><td class="dt-right">55</td><td class="dt-right">13.8</td><td class="dt-right">16 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-cesarwil001">William Cesare</a></td><td class="dt-right">4</td><td class="dt-right">52</td><td class="dt-right">13.0</td><td class="dt-right">33 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-reedfra001">Frank Reed</a></td><td class="dt-right">3</td><td class="dt-right">24</td><td class="dt-right">8.0</td><td class="dt-right">24 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-thomamik003">Mike Thomas</a></td><td class="dt-right">2</td><td class="dt-right">27</td><td class="dt-right">13.5</td><td class="dt-right">24 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-spencher001">Herb Spencer</a></td><td class="dt-right">1</td><td class="dt-right">42</td><td class="dt-right">42.0</td><td class="dt-right">42 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-walkejim001">Jimmy Walker</a></td><td class="dt-right">1</td><td class="dt-right">27</td><td class="dt-right">27.0</td><td class="dt-right">27 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-landmel001">Mel Land</a></td><td class="dt-right">1</td><td class="dt-right">9</td><td class="dt-right">9.0</td><td class="dt-right">9 </td><td class="dt-right">0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-hickmdal001">Dallas Hickman</a></td><td class="dt-right">1</td><td class="dt-right">7</td><td class="dt-right">7.0</td><td class="dt-right">7 </td><td class="dt-right">0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">22</td><td class="dt-right">267</td><td class="dt-right">12.1</td><td class="dt-right">42 </td><td class="dt-right">0</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2><span id="ezoic-pub-ad-placeholder-156" class="ezoic-adpicker-ad"></span>Sacks:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Sacks">No.</a></th>
+<th class="dt-right"><a title="Sack Yards">Yds</a></th>
+<th class="dt-right"><a title="Average Yards per Sack">Avg.</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-rainemik001">Mike Raines</a></td><td class="dt-right">8.0</td><td class="dt-right">57</td><td class="dt-right">7.1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-spencher001">Herb Spencer</a></td><td class="dt-right">7.5</td><td class="dt-right">65.5</td><td class="dt-right">8.7</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-hickmdal001">Dallas Hickman</a></td><td class="dt-right">6.5</td><td class="dt-right">61</td><td class="dt-right">9.4</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-clinejac001">Jackie Cline</a></td><td class="dt-right">5.5</td><td class="dt-right">45</td><td class="dt-right">8.2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-walkejim001">Jimmy Walker</a></td><td class="dt-right">5.0</td><td class="dt-right">40.5</td><td class="dt-right">8.1</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-mcphelar001">Larry McPherson</a></td><td class="dt-right">4.0</td><td class="dt-right">31</td><td class="dt-right">7.8</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-smithjim005">Jim Smith</a></td><td class="dt-right">3.0</td><td class="dt-right">23</td><td class="dt-right">7.7</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-lewisreg002">Reggie Lewis</a></td><td class="dt-right">2.0</td><td class="dt-right">18</td><td class="dt-right">9.0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-murphmik001">Mike Murphy</a></td><td class="dt-right">1.5</td><td class="dt-right">13</td><td class="dt-right">8.7</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-reedfra001">Frank Reed</a></td><td class="dt-right">1.0</td><td class="dt-right">11</td><td class="dt-right">11.0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-damicric001">Rich D&#39;Amico</a></td><td class="dt-right">1.0</td><td class="dt-right">9</td><td class="dt-right">9.0</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-willibre003">Brett Williams</a></td><td class="dt-right">1.0</td><td class="dt-right">3</td><td class="dt-right">3.0</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">46.0</td><td class="dt-right">377</td><td class="dt-right">8.2</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2>Defense and Fumbles:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<!-- <tr>
+<th class="dt-center"</th>
+<th class="dt-center" colspan=7>Tackles</th>
+<th class="dt-center" colspan=2></th>
+<th class="dt-center" colspan=5>Fumbles</th>
+<th class="dt-right">Kicks</th>
+</tr> -->
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Total Tackles">Tackle</a></th>
+
+
+
+<th class="dt-right"><a title="Pass Breakups">Brup</a></th>
+
+
+<th class="dt-right"><a title="Fumbles">Fum</a></th>
+<th class="dt-right"><a title="Fumbles Recovered">FRec</a></th>
+<th class="dt-right"><a title="Fumble Recovery Yards">FYds</a></th>
+<th class="dt-right"><a title="Fumble Return Touchdowns">FTD</a></th>
+<th class="dt-right"><a title="Forced Fumbles">FF</a></th>
+
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-gantear001">Earl Gant</a></td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">1</td><td class="dt-right"></td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">0</td></tr>
+</tfoot>
+</table>
+</div><br/>
+
+<h2>Total Scoring:</h2>
+
+<div class="stat-table">
+<table class="sortable">
+<thead>
+<tr>
+<th class="dt-center"></th>
+<th class="dt-center" colspan="8">Touchdowns</th>
+<th class="dt-center" colspan="5">Other</th>
+<th class="dt-right">Total</th>
+</tr>
+<tr>
+<th class="dt-left">Player</th>
+<th class="dt-right"><a title="Rushing Touchdowns">Rush</a></th>
+<th class="dt-right"><a title="Receiving Touchdowns">Rec</a></th>
+<th class="dt-right"><a title="Punt Return Touchdowns">Punt</a></th>
+<th class="dt-right"><a title="Kick Return Touchdowns">Kick</a></th>
+<th class="dt-right"><a title="Missed Field Goal Return Touchdowns">MFG</a></th>
+<th class="dt-right"><a title="Interception Return Touchdowns">Int</a></th>
+<th class="dt-right"><a title="Fumble Return Touchdowns">Fum</a></th>
+<th class="dt-right"><a title="Other Touchdowns">Other</a></th>
+<th class="dt-right"><a title="Field Goals">FG</a></th>
+<th class="dt-right"><a title="Extra Points, Converts, Action Points, XFL PATs">X/C</a></th>
+<th class="dt-right"><a title="Singles">Single</a></th>
+<th class="dt-right"><a title="Two-Point Conversions">2Pt</a></th>
+<th class="dt-right"><a title="Safeties">Saf</a></th>
+<th class="dt-right"><a title="Total Points">Points</a></th>
+</tr>
+</thead>
+<tbody><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-norwosco001">Scott Norwood</a></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">25</td><td class="dt-right">34</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">109</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-andergre002">Greg Anderson</a></td><td class="dt-right">0</td><td class="dt-right">5</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">30</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-taltoken001">Ken Talton</a></td><td class="dt-right">5</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">30</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-johnslon002">Lonnie Johnson</a></td><td class="dt-right">3</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">24</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-collireg001">Reggie Collier</a></td><td class="dt-right">4</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">24</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-gantear001">Earl Gant</a></td><td class="dt-right">2</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">24</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-quarlcor001">Cornelius Quarles</a></td><td class="dt-right">3</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">20</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-lanebob002">Bob Lane</a></td><td class="dt-right">3</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">18</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-smithjim005">Jim Smith</a></td><td class="dt-right">0</td><td class="dt-right">3</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">18</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-masondar001">Darryl Mason</a></td><td class="dt-right">0</td><td class="dt-right">2</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">12</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-whitebil002">Billy White</a></td><td class="dt-right">2</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">12</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-frederon001">Ron Frederick</a></td><td class="dt-right">0</td><td class="dt-right">2</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">12</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-stephste001">Steve Stephens</a></td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">6</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-rainemik001">Mike Raines</a></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">2</td></tr><tr><td class="dt-left"><a href="https://www.statscrew.com/football/stats/p-spencher001">Herb Spencer</a></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right"></td><td class="dt-right"></td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">2</td></tr></tbody>
+<tfoot>
+<tr>
+<td class="dt-left">Totals</td><td class="dt-right">22</td><td class="dt-right">15</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">1</td><td class="dt-right">0</td><td class="dt-right">25</td><td class="dt-right">34</td><td class="dt-right">0</td><td class="dt-right">0</td><td class="dt-right">3</td><td class="dt-right">343</td></tr>
+</tfoot>
+</table>
+</div>
+<br/>
+<!-- Ezoic - mid_content_box - mid_content -->
+<span id="ezoic-pub-ad-placeholder-107"></span>
+<!-- End Ezoic - mid_content_box - mid_content -->
+
+
+<br/><div class="navigation"><a href="https://www.statscrew.com/football/t-USFLBIR">Birmingham Stallions Franchise History</a> | <a href="https://www.statscrew.com/football/stats/t-USFLBIR/y-1984">Next Season &gt;&gt;</a></div>
+<br/>
